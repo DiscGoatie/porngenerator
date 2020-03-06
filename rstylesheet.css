@@ -1,19 +1,19 @@
 
 body{
-    background: #0d0d0d;
-    font-family: 'Noto Sans',sans-serif;
+    background: rgb(147, 195, 147);
+    font-family: verdana,sans-serif;
 }
 a{
     text-decoration: none;
-    color: #d9d9d9;
+    color: #222;
 }
 .box{
     font-size: 50px;
-    background: #1f1f1f;
+    background: rgb(170,229,163);
     text-align: center;
     margin-bottom: 0.75em;
     display: inline-block;
-    border: 8px solid #ed2663;
+    border: 8px solid rgb(235, 255, 232);
     border-radius: 7px;
     width: 100%;
 }
@@ -21,7 +21,7 @@ a{
     margin: auto 15%;
 }
 .text{
-    color: #d9d9d9;
+    color: #222;
     text-align: center;
     font-size: 75px;
 }
@@ -29,21 +29,21 @@ h1{
     margin-bottom: 0px;
 }
 .hr{
-    border-bottom: solid #4d4d4d 4px;
+    border-bottom: solid rgb(170,229,163) 4px;
     margin: 1em 10% 1em 10%;
 }
 #warningBox{
-    border: 5px dashed #ed2663;
+    border: 5px dashed rgb(235, 255, 232);
     margin: auto 20%;
-    background: #1f1f1f;
+    background: rgb(170,229,163);
 }
 .warningText{
-    color: #d9d9d9;
+    color: #222;
     text-align: center;
     padding:  10px;
 }
 nav{
-    background: #1f1f1f;
+    background: rgb(170,229,163);
     text-align: center;
     position: fixed;
     top:0px;
@@ -51,5 +51,5 @@ nav{
     right:0px;
     font-size: 30px;
     padding-bottom: 5px;
-    padding-top:5px;
+    padding-top: 5px;
 }

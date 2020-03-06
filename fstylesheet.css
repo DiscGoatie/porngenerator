@@ -25,6 +25,9 @@ a{
     text-align: center;
     font-size: 75px;
 }
+h1{
+    margin-bottom: 0px;
+}
 .hr{
     border-bottom: solid rgb(53,59,69) 4px;
     margin: 1em 10% 1em 10%;
